@@ -3,5 +3,10 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="BasicsConsoleApplication/BasicsConsoleApplication.vcxproj" Id="39998090-9337-4f0d-8846-c80581a6076e" />
+  <Folder Name="/01. Basics/">
+    <Project Path="BasicsConsoleApplication/BasicsConsoleApplication.vcxproj" Id="39998090-9337-4f0d-8846-c80581a6076e" />
+  </Folder>
+  <Folder Name="/02. Variable/">
+    <Project Path="VariableConsoleApplication/VariableConsoleApplication.vcxproj" Id="79feb20b-72f6-448e-be20-513072741827" />
+  </Folder>
 </Solution>
