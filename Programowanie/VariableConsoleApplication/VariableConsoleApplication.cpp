@@ -61,6 +61,7 @@ int main()
 Algorytm - skończony zbiór instrukcji,
 który rozwiązuje zadany problem.
 Określa też kolejność wynonywanych instrukcji.
+
 Zapis algorytmu:
 * opis słowny
 * w punktach
@@ -101,7 +102,8 @@ Warunki niezbędne:
 
 Warunki programistów:
 * nazwa zmiennej powinna oddawać charakter przechowywanych danych
-* jeśli wiele słów to w miejscu spacji podkreślenie lub zaczynając od drugiego słowa piszemy je z dużej litery
+* jeśli identyfikator składa się z wielu słów to w miejscu spacji wstawiamy podkreślenie 
+  lub piszemy bez spacji i zaczynając od drugiego słowa piszemy je z dużej litery
 * piszemy po angielsku
 
 */
