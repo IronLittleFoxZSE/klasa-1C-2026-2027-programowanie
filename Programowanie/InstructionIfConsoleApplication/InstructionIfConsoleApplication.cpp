@@ -46,6 +46,47 @@ T    T        T           T       F
 
 */
 
+/*
+* **Pełnoletność uczestnika**
+  Wczytaj wiek uczestnika. Wyświetl informację, czy jest pełnoletni. Przyjmij, że pełnoletność osiąga się w wieku 18 lat.
+
+* **Kontrola liczby produktów**
+  Wczytaj liczbę zamówionych sztuk produktu oraz liczbę sztuk dostarczonych. Sprawdź, czy dostawa jest zgodna z zamówieniem. Jeśli liczby są różne, oblicz i wyświetl, ilu sztuk brakuje albo ile sztuk dostarczono za dużo.
+
+* **Odległość od punktu zerowego**
+  Wczytaj całkowitą współrzędną punktu na osi liczbowej. Oblicz jego odległość od zera. Przykładowo punkty o współrzędnych `-5` i `5` znajdują się w odległości `5` od zera. Wykorzystaj instrukcję warunkową.
+
+* **Koszt dostawy zamówienia**
+  Wczytaj wartość zakupów. Dla zakupów o wartości co najmniej 200 zł dostawa jest bezpłatna, a dla mniejszych zamówień kosztuje 15 zł. Oblicz i wyświetl koszt dostawy oraz łączną kwotę do zapłaty.
+
+* **Pakowanie produktów**
+  Wczytaj dodatnią całkowitą liczbę produktów. Sprawdź osobno, czy wszystkie produkty można zapakować do pełnych opakowań po 3 sztuki oraz do pełnych opakowań po 5 sztuk. Następnie poinformuj, czy oba sposoby pakowania są możliwe bez pozostawienia produktów luzem.
+
+* **Bilet ulgowy**
+  Wczytaj wiek pasażera oraz cenę biletu normalnego. Osobom poniżej 18 lat lub mającym co najmniej 65 lat przysługuje zniżka 50%. Oblicz cenę biletu i wyświetl informację, czy zastosowano ulgę.
+
+* **Temperatura w chłodni**
+  Wczytaj aktualną temperaturę w chłodni. Prawidłowa temperatura mieści się w zakresie od 2°C do 8°C włącznie. Wyświetl informację, czy temperatura jest prawidłowa, za niska czy za wysoka.
+
+* **Budowa trójkąta**
+  Wczytaj długości trzech odcinków. Sprawdź, czy można zbudować z nich trójkąt. Wszystkie długości muszą być dodatnie, a suma długości każdych dwóch odcinków musi być większa od długości trzeciego.
+
+* **Bok kwadratowej działki**
+  Wczytaj powierzchnię kwadratowej działki w metrach kwadratowych. Jeżeli powierzchnia jest dodatnia, oblicz długość boku działki, wykorzystując pierwiastek kwadratowy. W przeciwnym razie wyświetl komunikat o niepoprawnej powierzchni.
+
+* **Wynik testu**
+  Wczytaj liczbę punktów zdobytych w teście. Można uzyskać od 0 do 100 punktów całkowitych. Przypisz wynik do odpowiedniej kategorii:
+  - poniżej 50 punktów — test niezaliczony;
+  - od 50 do 69 punktów — wynik podstawowy;
+  - od 70 do 89 punktów — wynik dobry;
+  - od 90 do 100 punktów — wynik bardzo dobry.
+  Dla liczby spoza zakresu 0–100 wyświetl komunikat o niepoprawnych danych.
+
+* **Przeliczanie jednostek długości**
+  Wyświetl menu: `1` — metry na centymetry, `2` — centymetry na metry, `3` — kilometry na metry. Wczytaj numer opcji oraz długość do przeliczenia. Wykorzystaj instrukcję `switch`, aby wykonać wybrane przeliczenie. Wyświetl wynik wraz z jednostką, a dla nieznanej opcji — komunikat o błędnym wyborze.
+
+*/
+
 //Napisz program, który wyświetli informacje czy liczba jest dodatnia czy ujemna.
 void task1()
 {
