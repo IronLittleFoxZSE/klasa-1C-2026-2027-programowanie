@@ -9,4 +9,8 @@
   <Folder Name="/02. Variable/">
     <Project Path="VariableConsoleApplication/VariableConsoleApplication.vcxproj" Id="79feb20b-72f6-448e-be20-513072741827" />
   </Folder>
+  <Folder Name="/03. Decision instructions/" />
+  <Folder Name="/03. Decision instructions/01. Instruction If/">
+    <Project Path="InstructionIfConsoleApplication/InstructionIfConsoleApplication.vcxproj" Id="9695ac45-eb8e-426d-b824-c17d35fa265c" />
+  </Folder>
 </Solution>

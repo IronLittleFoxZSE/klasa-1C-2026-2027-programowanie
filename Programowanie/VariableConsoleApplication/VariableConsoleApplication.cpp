@@ -1,4 +1,4 @@
-// VariableConsoleApplication.cpp 
+﻿// VariableConsoleApplication.cpp 
 
 #include <iostream>
 
