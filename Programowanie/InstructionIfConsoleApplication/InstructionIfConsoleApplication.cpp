@@ -56,7 +56,7 @@ T    T        T           T       F
 * **Odległość od punktu zerowego**
   Wczytaj całkowitą współrzędną punktu na osi liczbowej. Oblicz jego odległość od zera. Przykładowo punkty o współrzędnych `-5` i `5` znajdują się w odległości `5` od zera. Wykorzystaj instrukcję warunkową.
 
-* **Koszt dostawy zamówienia**
+* **Koszt dostawy zamówienia** 
   Wczytaj wartość zakupów. Dla zakupów o wartości co najmniej 200 zł dostawa jest bezpłatna, a dla mniejszych zamówień kosztuje 15 zł. Oblicz i wyświetl koszt dostawy oraz łączną kwotę do zapłaty.
 
 * **Pakowanie produktów**
